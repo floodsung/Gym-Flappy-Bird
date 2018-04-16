@@ -1,0 +1,1 @@
+from gym_flappy_bird.envs.flappy_bird_env import FlappyBirdEnv
