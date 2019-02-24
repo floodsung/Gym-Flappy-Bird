@@ -1,0 +1,7 @@
+README.md
+setup.py
+gym_flappy_bird.egg-info/PKG-INFO
+gym_flappy_bird.egg-info/SOURCES.txt
+gym_flappy_bird.egg-info/dependency_links.txt
+gym_flappy_bird.egg-info/requires.txt
+gym_flappy_bird.egg-info/top_level.txt
